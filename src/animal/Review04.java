@@ -4,7 +4,6 @@ public class Review04 {
 
     public static void main(String[] args) {
         
-        
         Human tanaka = new Human("田中 太郎", 25, "電車");
         tanaka.say();
         tanaka.think ();
